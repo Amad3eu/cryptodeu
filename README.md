@@ -6,7 +6,7 @@
 
 Cryptodeu is a platform that from the enthusiast to the expert can visualize and buy cryptocurrencies in the future, based on prices as the currency is behaving in the market, and also contains immediate currency updates
 
-## Project
+## Link ⬇
 
 <https://cryptodeu-github-io.vercel.app/>
 
