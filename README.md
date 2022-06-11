@@ -12,8 +12,13 @@ Cryptodeu is a platform that from the enthusiast to the expert can visualize and
 
 ## References for Deploying and testing
 
-  <a href="https://twitter.com/Amad3eu" target="_blank">
+ <a href="https://cli.vuejs.org/guide/deployment.html#general-guidelines" target="_blank">
  <img src="https://img.shields.io/badge/-Vue%20Deploy%20Docs-05122A?style=flat&logo=vue.js" alt="VueCli">
+  
+ #####
+  
+ <a href="https://vuejs.org/guide/scaling-up/testing.html" target="_blank">
+ <img src="https://img.shields.io/badge/-Vue%20Testing%20Docs-05122A?style=flat&logo=vue.js" alt="VueCli">
 </a>
 </p>
 
@@ -35,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-#### By Amad3eu
+#### By Amad3eu 
